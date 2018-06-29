@@ -1,0 +1,8 @@
+{
+	"name": "qubeshub/tpl_qubes",
+	"description": "QUBES old template (2015)",
+	"type": "hubzero-template",
+	"extra": {
+	    "install-directory": "/templates/qubes"
+	}
+}
